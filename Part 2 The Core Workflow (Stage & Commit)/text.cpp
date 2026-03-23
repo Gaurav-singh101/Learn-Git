@@ -1,3 +1,3 @@
 int a = 10;
-int b = 200;
-int c = 300;
+int b = 20;
+int c = 30;
