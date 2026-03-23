@@ -1,0 +1,12 @@
+after this commond - "git add -p"  you will get this 
+
+| Key | Meaning                   |
+| --- | ------------------------- |
+| `y` | Stage this change         |
+| `n` | Skip this change          |
+| `q` | Quit                      |
+| `a` | Stage all remaining       |
+| `d` | Skip all remaining        |
+| `s` | Split into smaller chunks |
+| `e` | Edit manually             |
+| `?` | Help                      |
