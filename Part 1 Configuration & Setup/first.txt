@@ -1,8 +1,0 @@
-| Command                          | Purpose             |
-| -------------------------------- | ------------------- |
-| `git version`                    | Check Git installed |
-| `git config --global user.name`  | Set username        |
-| `git config --global user.email` | Set email           |
-| `git config --list`              | View config         |
-| `git init`                       | Create repo         |
-| `git clone`                      | Copy repo           |
